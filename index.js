@@ -89,7 +89,7 @@ function tweetTheText(targetId){
             uuid: uuidv4()
         })
     render()
-    userTweetText.value = ''
+    userTextTweet.value = ''
     }
 }
 function replyShower(replyId){
